@@ -1,0 +1,17 @@
+{
+  "name": "dash-hangout-mute",
+  "version": "1.0.0",
+  "description": "Mutes and unmutes the hangout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "CJ Buchmann"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.4.4",
+    "dhcpjs":"^0.5.0"
+  }
+}
